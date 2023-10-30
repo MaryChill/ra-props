@@ -1,4 +1,4 @@
-const json = [
+const data = [
     {
         "listing_id": 708099714,
         "state": "active",
@@ -2331,4 +2331,4 @@ const json = [
     }
 ]
 
-export default json;
+export default data;
